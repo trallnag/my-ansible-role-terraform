@@ -4,8 +4,8 @@
   vars:
     asdf_plugin_name: terraform
     asdf_plugin_git_url: https://github.com/asdf-community/asdf-hashicorp.git
-    asdf_plugin_package_versions: ["1.1.9"]
-    asdf_plugin_package_version_global: "1.1.9"
+    asdf_plugin_package_versions: ["1.2.1"]
+    asdf_plugin_package_version_global: "1.2.1"
 
 - name: Setup completion for Bash
   ansible.builtin.blockinfile:
